@@ -1,0 +1,159 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+#div0 {
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+#div01 {
+  margin-right: 75rem;
+}
+
+#div 1 {
+}
+
+#div2 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-family: "Pacifico", cursive;
+  font-size: 30px;
+}
+
+#h2-1 {
+  font-family: "Quantico", sans-serif;
+  font-size: 40px;
+  margin-left: 26.5rem;
+  margin-top: 2rem;
+}
+
+#printer {
+  scale: 100% 70%;
+  margin-right: 27rem;
+}
+
+#p11 {
+  font-size: 15px;
+  color: lightgray;
+  margin-left: 26.6rem;
+  padding: 0.5rem 0 0 0;
+}
+
+#printer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: end;
+  align-items: center;
+}
+
+#hero {
+  border-radius: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0.5rem;
+  margin-bottom: 2rem;
+  width: 50%;
+}
+
+#p2 {
+  color: gray;
+  text-align: left;
+  margin: 2rem 27rem;
+  text-indent: 60px;
+}
+
+#p3 {
+  color: gray;
+  text-align: left;
+  margin: 2rem 27rem;
+  text-indent: 60px;
+}
+
+#p4 {
+  color: gray;
+  text-align: left;
+  margin: 2rem 27rem;
+  text-indent: 60px;
+}
+
+#div5 {
+  background-image: url("images/list-bg.png");
+  background-size: 112%;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin: 0 30rem;
+}
+
+#list2 {
+  font-family: "Indie Flower", cursive;
+  font-size: 25px;
+  margin-right: 2rem;
+  margin-left: 5rem;
+  line-height: 1.2;
+}
+
+#list3 {
+  font-family: "Indie Flower", cursive;
+  font-size: 25px;
+  margin-left: 2rem;
+  line-height: 1.2;
+}
+
+#vanessa {
+}
+
+#h2-2 {
+  color: gray;
+  font-family: "Quantico";
+  margin-bottom: 0.5rem;
+  margin-top: 0.1rem;
+}
+
+#p5 {
+  color: gray;
+  line-height: 1.2;
+}
+
+#div6 {
+  margin: 2rem 2rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+
+#div7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 60rem;
+}
+
+button {
+  border-radius: 5px;
+  height: 40px;
+  background-color: green;
+}
+
+footer {
+  color: gray;
+  text-align: center;
+  line-height: 1.2;
+}
